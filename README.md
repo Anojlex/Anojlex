@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-
- 💻 Full Stack Web Developer
+💻 Full Stack Web Developer
 
 ## About Me
 
-Hello there! I'm a passionate full stack developer with over a year of hands-on experience in building robust and scalable web applications. My journey in web development has been fueled by a deep curiosity and a relentless pursuit of mastering the latest technologies.
+Hello! I'm a dedicated full stack web developer with over a year of experience in creating robust and scalable web applications. My journey in web development is driven by a deep curiosity and a relentless pursuit of mastering the latest technologies. I have worked on diverse projects, including e-commerce, ERP, and HRM systems.
 
 ## Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js,redux
+- **Frontend:** HTML, CSS, JavaScript, React.js, Redux
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB,SQL
+- **Database:** MongoDB, MySQL
 
   
 
