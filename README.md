@@ -2,7 +2,7 @@
 
 **Frontend-focused Full Stack Developer** · React · Next.js · TypeScript · Kochi, India
 
-I build fast, reliable web products. For nearly four years I've shipped SaaS products end to end, including an 18-module ERP, admin platforms for client products, and a 130+ page website built from Figma designs. I like clean UI, solid TypeScript and features that are fast for users.
+I build fast, reliable web products. For last four years I've shipped SaaS products end to end, including an 18-module ERP, admin platforms for client products, and a 130+ page website built from Figma designs. I like clean UI, solid TypeScript and features that are fast for users.
 
 - 🔭 **Currently building:** a job-application tracker in Next.js + TypeScript
 - 🌱 **Learning:** frontend system design, NestJS, and AI features with the Vercel AI SDK
