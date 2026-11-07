@@ -47,5 +47,6 @@ _Client work is under NDA, so the repos here are personal projects._
 
 ## GitHub stats
 
-![Anoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anojlex&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anojlex&layout=compact&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=Anojlex&hide_border=true)
+
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anojlex&theme=default)
