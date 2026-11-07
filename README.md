@@ -45,8 +45,4 @@ I build fast, reliable web products. For nearly four years I've shipped SaaS pro
 
 _Client work is under NDA, so the repos here are personal projects._
 
-## GitHub stats
 
-![GitHub streak](https://streak-stats.demolab.com?user=Anojlex&hide_border=true)
-
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anojlex&theme=default)
